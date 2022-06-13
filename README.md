@@ -1,2 +1,2 @@
 # Projeto_Final
- Projeto CSS
+ Projeto feito conforme as aulas da professora Gabriela Pinheiro.
